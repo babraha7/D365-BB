@@ -1,4 +1,7 @@
 File 3 
 This is line 1
+This is line 2 a 
+This is line 2 b (no line 3)
 This is line 2 
 This is line 3 web
+
